@@ -1,0 +1,135 @@
+.btn {
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  text-shadow: 1px 1px 3px #F2EFEA;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: #AF6B58;
+  font-size: 14px;
+  background: #F2EFEA;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background: #CBBCB1;
+  text-decoration: none;
+}
+
+.btn-above-p {
+  margin-bottom: 60px;
+}
+
+a {
+  color: #556052;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size: 14px;
+  margin: auto 20px auto;
+}
+
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.bottom-container {
+  margin: 100px auto 0 auto;
+  background-color: #F2EFEA;
+  padding: 50px;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 400px;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 400px;
+  top: 150px;
+}
+
+.div-top {
+  background-color: #F2EFEA;
+  padding: 20px;
+  padding-bottom: 0;
+  margin-bottom: 20px;
+  height: auto;
+}
+
+.head-para {
+  position: relative;
+  top: 3.125rem;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Hachi Maru Pop', cursive;
+  font-size: 3.5rem;
+  color: #AF6B58;
+}
+
+h2 {
+  color: #556052;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size: 2.25rem;
+}
+
+h3 {
+  color: #556052;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size: 1.375rem;
+}
+
+hr {
+  border-style: dotted none none;
+  color: #CBBCB1;
+  border-width: 10px;
+  width: 15%;
+  margin: 100px auto 100px auto;
+}
+
+.mountain-image {
+  margin: 0;
+}
+
+.para1 {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-weight: 600;
+  color: #AF6B58;
+  font-size: 1.375rem;
+}
+
+p {
+  font-family: 'Roboto Slab', serif;
+  line-height: 2;
+}
+
+.bottom-p {
+  margin-top: 30px;
+  color: #AF6B58;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto auto 100px auto;
+  text-align: left;
+}
+
+
+.girl {
+  width: 8%;
+}
+
+.image2 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.image3 {
+  width: 25%;
+  float: right;
+}
